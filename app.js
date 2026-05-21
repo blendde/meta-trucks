@@ -1,6 +1,6 @@
 (() => {
-  const CONTACT_PHONE = "+389 XX XXX XXX";
-  const CONTACT_EMAIL = "info@metatrucks.com";
+  const CONTACT_PHONE = "+389 70 369 897";
+  const CONTACT_EMAIL = "metatraks@gmail.com";
 
   let currentLang = "sq";
   let currentBrand = "all";
